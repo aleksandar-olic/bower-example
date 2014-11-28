@@ -1,8 +1,35 @@
 {
   "name": "bower-example",
+  "version": "0.0.1",
+  "authors": [
+    "malizmaj <aleksandar.olic.89@gmail.com>"
+  ],
+  "description": "Example app with bower.",
   "private": true,
+  "license": "GNU",
+    "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "bootstrap",
+    "WordPress"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "dependencies": {
     "bootstrap": "~3.2.0",
-    "modernizr": "~2.8.2"
+    "modernizr": "~2.8.2",
+    "font-awesome": "~4.2.0"
   }
 }
+
+
+  
+  
+
+
